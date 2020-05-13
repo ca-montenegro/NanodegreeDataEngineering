@@ -12,3 +12,5 @@ The project's plan is defined in the next steps:
 5. Create the data pipeline in which spark is in charge of creating the tables based on the previous information
 6. Run some quality checks after the pipeline is performed to be sure that the data is consistent
 7. Perform some analytics query to show the potential of using spark and the created data model
+
+You can find more information in the Jupyter Notebook file.
